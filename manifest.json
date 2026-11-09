@@ -1,0 +1,10 @@
+{
+	"id": "mason-utils",
+	"name": "Mason Utils",
+	"version": "1.0.11",
+	"minAppVersion": "1.10.2",
+	"description": "Boards and dashboard blocks for your vault: roadmap and planning boards, recently created files, periodic note cards, and automatic dates in frontmatter.",
+	"author": "Mason",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
